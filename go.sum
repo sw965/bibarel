@@ -1,0 +1,8 @@
+github.com/seehuhn/mt19937 v1.0.0 h1:r02DuVkQXfohssWZO8L/TeAlYOah7aNNubEHB/7Vtfs=
+github.com/seehuhn/mt19937 v1.0.0/go.mod h1:RikyXajNu+1Gqxm4hOacc3ckyWRd0usF6IkE3gnEcAM=
+github.com/sw965/bippa v0.0.0-20211106112632-5d20b8043378 h1:1HAD+jjGnwjgUv6pS3fRwuS1BmqIQT1aP6IlanJdle0=
+github.com/sw965/bippa v0.0.0-20211106112632-5d20b8043378/go.mod h1:rpUetliwXMu2vcSox40QbDzRq6b40upqtnfn8tDbfZs=
+github.com/sw965/crow v0.0.1 h1:wporLZqLYZMwrT0avPmSTeWlANhTjKyvo/ABxS+fFSU=
+github.com/sw965/crow v0.0.1/go.mod h1:jYuxFl5jajKpkbBgjL/33U93SlfUlw3obDj6dST3Nxw=
+github.com/sw965/omw v1.0.0 h1:H6xyA+nurc3klUDmuSgjgOd2VyOhcG3JMvILGM4/vGo=
+github.com/sw965/omw v1.0.0/go.mod h1:raZk8POppV+U31z4eL7MWejOrsFYZ7Dfsqb0V7/xI6s=
