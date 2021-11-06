@@ -1,4 +1,4 @@
-package mcts
+package bibarel
 
 import (
   "math/rand"
